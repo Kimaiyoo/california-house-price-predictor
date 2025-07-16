@@ -23,8 +23,7 @@ Then go to `http://127.0.0.1:8000/docs` to try it out.
 - `main.py`: FastAPI app
 - `house_price_predictor.ipynb`: Notebook workflow
 - `requirements.txt`: Required packages
-- `california_knn_model.pkl`: Trained model
-- `report.pdf`: Final write-up
+- `california_knn_regressor.pkl`: Trained model
 
 ## 📌 Author
 
